@@ -24,7 +24,7 @@ Original file is located at
 """
 
 # API to fetch the dataset from Kaggle
-!kaggle datasets download -d kazanova/sentiment140
+#!kaggle datasets download -d kazanova/sentiment140
 
 # extracting the compressed dataset
 
